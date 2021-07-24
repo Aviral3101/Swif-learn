@@ -1,0 +1,44 @@
+.fa{
+    color: black;
+   
+}
+.slider-left{
+   right: 121% !important;
+}
+.slider-right{
+    left: 121% !important;
+}
+.p-45{
+    font-size: 45px;
+    color: #A0A0A0;
+    margin-bottom: 0;
+    font-weight: 300;
+   
+}
+.p-24{
+    color: #A0A0A0;
+}
+.section-2{
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.number{
+    display: flex;
+    width: 75%;
+   padding:1% 2.5%;
+   border: 2px #A0A0A0 solid ;
+   border-radius: 8px;
+}
+.tab{
+    font-size: 28px;
+   margin: 0 10px;
+   width: 50px;
+   text-align: center;
+}
+.active-tab{
+    border-bottom: 2.5px #A0A0A0 solid;
+}
+.tab >p{
+    margin: 0;
+    color: #A0A0A0;
+}
